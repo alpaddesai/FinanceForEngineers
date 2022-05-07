@@ -1,0 +1,16 @@
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\bin\Release\FinanceEngineers.exe.config
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\bin\Release\FinanceEngineers.exe
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\bin\Release\FinanceEngineers.pdb
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\obj\Release\FinanceEngineers.csproj.AssemblyReference.cache
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\obj\Release\FinanceEngineers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\obj\Release\MainWindow.g.cs
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\obj\Release\App.g.cs
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\obj\Release\FinanceEngineers_MarkupCompile.cache
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\obj\Release\FinanceEngineers_MarkupCompile.lref
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\obj\Release\MainWindow.baml
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\obj\Release\FinanceEngineers.g.resources
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\obj\Release\FinanceEngineers.Properties.Resources.resources
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\obj\Release\FinanceEngineers.csproj.GenerateResource.cache
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\obj\Release\FinanceEngineers.csproj.CoreCompileInputs.cache
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\obj\Release\FinanceEngineers.exe
+C:\Users\Alpa Desai\Documents\source\repos\FinanceEngineers\FinanceEngineers\FinanceEngineers\obj\Release\FinanceEngineers.pdb
