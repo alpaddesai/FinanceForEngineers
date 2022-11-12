@@ -6,3 +6,5 @@ The project provides an overview of Finance for Engineers. Confidential informat
 ![image](Image.jpg)
 
 ![image](USCopyrightCertificate.png)
+
+![image](Ethics.jpg)
