@@ -5,11 +5,8 @@ The project provides an overview of Finance for Engineers. Confidential informat
 ## Finance for Engineers
 ![image](Image.jpg)
 
-## CFA
-![image](CFAExam.jpg)
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
 
-Additional details reference: https://github.com/alpaddesai/EngineeringProjectManagement and https://github.com/alpaddesai/InvestmentBanking
+Additional details reference: https://github.com/alpaddesai/EngineeringProjectManagement
