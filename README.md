@@ -9,4 +9,4 @@ The project provides an overview of Finance for Engineers. Confidential informat
 
 ![image](Ethics.jpg)
 
-Additional details reference: https://github.com/alpaddesai/EngineeringProjectManagement2022
+Additional details reference: https://github.com/alpaddesai/DesignEngineering
